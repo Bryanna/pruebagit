@@ -1,10 +1,6 @@
 
+StarSoftApps()
 
-const iniciaciongit = () => {
-    return (
-        <>
-
-        </>
-    )
+function StarSoftApps() {
+    throw new Error("Function not implemented.");
 }
- 

@@ -1,1 +1,3 @@
-StarsoftApp
+
+
+StarsoftApp()
